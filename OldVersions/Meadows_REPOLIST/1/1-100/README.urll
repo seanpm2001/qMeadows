@@ -2,7 +2,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: Meadows_REPOLIST.urll
 //// URL list for Meadows repositories
-//// 41 total repository links (as of 2023, Thursday, August 24th at 06:40 pm PST), Version 2.
+//// 43 total repository links (as of 2025, Wednesday, February 26th at 11:59 pm PST), Version 3.
 //// Note: MEDOS is not included into this count.
 
 //// Meadows main (2)
@@ -35,6 +35,11 @@ https://github.com/seanpm2001/Meadows_Programs
 https://github.com/seanpm2001/Meadows_Programs_QuantumDefragmenter
 https://github.com/seanpm2001/Meadows_Programs_Clock_and_Calendar
 https://github.com/seanpm2001/Meadows_Emergency-Alert-System
+
+//// Meadows Icon Glossary (2)
+
+https://github.com/seanpm2001/Meadows_Icon-Glossary
+https://github.com/seanpm2001/Meadows_Icon-Glossary_Docs
 
 //// Meadows general modules (8)
 
@@ -88,7 +93,7 @@ https://github.com/seanpm2001/QMeadows-development.github.io //// (former fork)
 
 //// File info:
 
-//// File version: 2 (2023, Thursday, August 24th at 06:40 pm PST)
-//// Line count (including blank lines and compiler line): 95
+//// File version: 3 (2025, Wednesday, February 26th at 05:59 pm PST)
+//// Line count (including blank lines and compiler line): 100
 
 //// End of file
