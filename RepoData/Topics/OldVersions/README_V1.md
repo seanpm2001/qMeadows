@@ -1,0 +1,17 @@
+linux
+core
+gplv3
+quantum
+operating-system
+quantum-computing
+md
+txt
+gpl3
+128-bit
+meadows
+year-of-the-linux-desktop
+qmeadows
+qmeadows-development
+meadows-os
+qeadows
+meadows-operating-system
