@@ -1,9 +1,12 @@
 ////URLL-version=3;
+//// Meadows_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
-//// FileName: Meadows_REPOLIST.urll
-//// URL list for Meadows repositories
-//// 43 total repository links (as of 2025, Wednesday, February 26th at 11:59 pm PST), Version 3.
-//// Note: MEDOS is not included into this count.
+//// A list of all Meadows project repositories by @seanpm2001
+//// As of 2025, Friday, February 28th 
+
+//// ----------------------------------------------------- \\\\
+//// Meadows Project (46)
+//// ----------------------------------------------------- \\\\
 
 //// Meadows main (2)
 
@@ -40,6 +43,11 @@ https://github.com/seanpm2001/Meadows_Emergency-Alert-System
 
 https://github.com/seanpm2001/Meadows_Icon-Glossary
 https://github.com/seanpm2001/Meadows_Icon-Glossary_Docs
+
+//// Meadows Classical Developer VM (2)
+
+https://github.com/seanpm2001/Meadows-Classical-Developer-VM
+https://github.com/seanpm2001/Meadows-Classical-Developer-VM_Docs
 
 //// Meadows general modules (8)
 
@@ -91,9 +99,34 @@ https://github.com/seanpm2001/Template_Meadows_V2
 
 https://github.com/seanpm2001/QMeadows-development.github.io //// (former fork)
 
-//// File info:
+//// ----------------------------------------------------- \\\\
+//// Repo count (Meadows): 46
+//// 2+5+1+4+4+2+2+8+1+2+1+9+2+2+1=46
+//// ----------------------------------------------------- \\\\
 
-//// File version: 3 (2025, Wednesday, February 26th at 05:59 pm PST)
-//// Line count (including blank lines and compiler line): 100
+//// ----------------------------------------------------- \\\\
+//// See also (2)
+
+//// Browsers
+
+//// Bliss Browser (2)
+
+https://github.com/seanpm2001/Bliss_Browser
+https://github.com/seanpm2001/Bliss_Browser_Docs
+
+//// ----------------------------------------------------- \\\\
+//// Repo count (See also): 2
+//// 2+0=2
+//// ----------------------------------------------------- \\\\
+//// Total repo count: 48
+//// 46+2=48
+//// ----------------------------------------------------- \\\\
+
+//// ----------------------------------------------------- \\\\
+//// File info
+//// File type: URLL v3 list file (*.urll)
+//// File version: 4 (2025, Friday, February 28th at 07:30 pm PST)
+//// Line count (including blank lines and compiler line): 133
+//// ----------------------------------------------------- \\\\
 
 //// End of file
