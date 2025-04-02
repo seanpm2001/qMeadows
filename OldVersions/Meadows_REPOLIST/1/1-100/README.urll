@@ -2,10 +2,10 @@
 //// Meadows_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Meadows project repositories by @seanpm2001
-//// As of 2025, Friday, February 28th 
+//// As of 2025, Tuesday, April 1st
 
 //// ----------------------------------------------------- \\\\
-//// Meadows Project (46)
+//// Meadows Project (50)
 //// ----------------------------------------------------- \\\\
 
 //// Meadows main (2)
@@ -99,9 +99,19 @@ https://github.com/seanpm2001/Template_Meadows_V2
 
 https://github.com/seanpm2001/QMeadows-development.github.io //// (former fork)
 
+//// Meadows Quantum Minefield (2)
+
+https://github.com/seanpm2001/Meadows_Quantum_Minefield
+https://github.com/seanpm2001/Meadows_Quantum_Minefield_Docs
+
+//// Meadows Quantum Minesweeper (2)
+
+https://github.com/seanpm2001/Meadows_Quantum_Minesweeper
+https://github.com/seanpm2001/Meadows_Quantum_Minesweeper_Docs
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (Meadows): 46
-//// 2+5+1+4+4+2+2+8+1+2+1+9+2+2+1=46
+//// Repo count (Meadows): 50
+//// 2+5+1+4+4+2+2+8+1+2+1+9+2+2+1+2+2=50
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -118,15 +128,15 @@ https://github.com/seanpm2001/Bliss_Browser_Docs
 //// Repo count (See also): 2
 //// 2+0=2
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 48
-//// 46+2=48
+//// Total repo count: 52
+//// 50+2=52
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 4 (2025, Friday, February 28th at 07:30 pm PST)
-//// Line count (including blank lines and compiler line): 133
+//// File version: 5 (2025, Tuesday, April 1st at 05:15 pm PST)
+//// Line count (including blank lines and compiler line): 143
 //// ----------------------------------------------------- \\\\
 
 //// End of file
