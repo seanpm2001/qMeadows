@@ -2,7 +2,7 @@
 //// Meadows_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Meadows project repositories by @seanpm2001
-//// As of 2025, Tuesday, April 1st
+//// As of 2025, Tuesday, April 15th
 
 //// ----------------------------------------------------- \\\\
 //// Meadows Project (50)
@@ -109,9 +109,14 @@ https://github.com/seanpm2001/Meadows_Quantum_Minefield_Docs
 https://github.com/seanpm2001/Meadows_Quantum_Minesweeper
 https://github.com/seanpm2001/Meadows_Quantum_Minesweeper_Docs
 
+//// Meadows Crash Suite (2)
+
+https://github.com/seanpm2001/Meadows_CrashSuite
+https://github.com/seanpm2001/Meadows_CrashSuite_Docs
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (Meadows): 50
-//// 2+5+1+4+4+2+2+8+1+2+1+9+2+2+1+2+2=50
+//// Repo count (Meadows): 52
+//// 2+5+1+4+4+2+2+8+1+2+1+9+2+2+1+2+2+2=52
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -128,15 +133,15 @@ https://github.com/seanpm2001/Bliss_Browser_Docs
 //// Repo count (See also): 2
 //// 2+0=2
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 52
-//// 50+2=52
+//// Total repo count: 54
+//// 52+2=54
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 5 (2025, Tuesday, April 1st at 05:15 pm PST)
-//// Line count (including blank lines and compiler line): 143
+//// File version: 6 (2025, Tuesday, April 15th at 05:42 pm PST)
+//// Line count (including blank lines and compiler line): 148
 //// ----------------------------------------------------- \\\\
 
 //// End of file
